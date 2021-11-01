@@ -1,0 +1,1 @@
+All the information related to the hw is contained in the hw1.ipynb file. The remaining files are data sets required to solve the problems.
